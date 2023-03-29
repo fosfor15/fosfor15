@@ -12,12 +12,34 @@
 
 ---
 
+<details class="motivation">
+    <summary>
+        <h3 class="motivation-heading">My motivation 🏆✅⏩</h3>
+    </summary>
+    <p class="motivation-text">
+        I perceive Development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
+    </p>
+    <p class="motivation-text">
+        I adhere to the idea that the Internet and modern, still young technologies can make our world better and more wealthy. And in general I look at Development as a good opportunity to contribute to this process.
+    </p>
+</details>
+
+---
 
 <style>
     h3 {
         margin: 8px 0;
     }
 
+    .motivation-heading {
+        display: inline-block;
+        margin-left: 4px;
+        cursor: pointer;
+    }
+
+    .motivation-text {
+        margin-left: 2em;
+    }
 </style>
 
 <!-- Here are some ideas:
