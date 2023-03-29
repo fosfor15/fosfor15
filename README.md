@@ -2,30 +2,27 @@
     <img style="width: 100%;" src="./svg/greetings.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
 </div>
 
-<h3>About me</h3>
-<ul class="about-me-list">
-    <li>Web FrontEnd & starter BackEnd Developer 🧑‍💻</li>
-    <li>Lecturer of WebDev subjects at the <a href="https://online.top-academy.ru/" target="_blank">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫</li>
-    <li>Satellite Communication Systems, MATLAB & Simulink Engineer 🛰️</li>
+<h2>About me 👨‍💻</h2>
+<ul>
+    <li>Web FrontEnd & starter BackEnd Developer 👨‍💻🌐🔗</li>
+    <li>Lecturer of WebDev subjects at the <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
+    <li>Satellite Communication Systems, MATLAB & Simulink Engineer 📡🛰️</li>
     <li>Master in Infocommunication Technologies and Systems 🎓</li>
-    <li>Current student at <a href="https://github.com/zero-to-mastery" target="_blank">Zero-to-Mastery Academy</a> 🎓</li>
+    <li>Current student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
 </ul>
 
----
+<h3>My motivation 🏆✅⏩</h3>
+<p>
+    I perceive Development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
+</p>
+<p>
+    I adhere to the idea that the Internet and modern, still young technologies can make our world better and more wealthy. And in general I look at Development as a good opportunity to contribute to this process.
+</p>
 
-<details class="motivation">
-    <summary>
-        <h3 style="display: inline-block; margin: 8px 0; margin-left: 4px; cursor: pointer;">My motivation 🏆✅⏩</h3>
-    </summary>
-    <p style="margin-left: 2em;">
-        I perceive Development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
-    </p>
-    <p style="margin-left: 2em;">
-        I adhere to the idea that the Internet and modern, still young technologies can make our world better and more wealthy. And in general I look at Development as a good opportunity to contribute to this process.
-    </p>
-</details>
-
----
+<h3>How to reach me ✉️📫</h3>
+<p>
+    Ask me anything or look what was asked by somebody else <a href="https://github.com/fosfor15/fosfor15/issues">here at the link to issues</a> 💬
+</p>
 
 <section class="languages-tools-stats-container" style="display: flex; column-gap: 20px;">
     <div class="languages-tools" style="width: 550px;">
@@ -121,12 +118,6 @@
         </div>
     </div>
 </section>
-
----
-
-💬 Ask me anything or look what was asked by somebody else [here at the link to issues](https://github.com/fosfor15/fosfor15/issues)
-
----
 
 <!-- Here are some ideas:
 - 🔭 I’m currently working on ...
