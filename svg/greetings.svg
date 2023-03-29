@@ -72,7 +72,7 @@
                 }
 
                 .globe-2 {
-                    right: 87.5px;
+                    right: 87px;
                     animation: globe-2 3s linear infinite;
                 }
 
@@ -84,7 +84,7 @@
                 }
 
                 .globe-3 {
-                    right: 167.5px;
+                    right: 166px;
                     animation: globe-3 3s linear infinite;
                 }
 
