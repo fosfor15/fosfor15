@@ -1,0 +1,101 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                h1 {
+                    text-align: center;
+                    --color-main: #e4e8ec;
+                    color: var(--color-main);
+                }
+
+                @media (prefers-color-scheme: light) {
+                    h1 {
+                        --color-main: #1f2328;
+                    }
+                }
+
+                @keyframes greetings {
+                    0% { transform: rotate(0deg); }
+                    10% { transform: rotate(14.0deg); }
+                    20% { transform: rotate(-8.0deg); }
+                    30% { transform: rotate(14.0deg); }
+                    40% { transform: rotate(-4.0deg); }
+                    50% { transform: rotate(10.0deg); }
+                    60% { transform: rotate(0deg); }
+                    100% { transform: rotate(0deg); }
+                }
+
+                .hand {
+                    display: inline-block;
+                    animation: greetings 1.5s linear -0.5s infinite;
+                    transform-origin: 70% 70%;
+                }
+
+                .globe-1,
+                .globe-2,
+                .globe-3 {
+                    position: relative;
+                    top: 0;
+                }
+
+                @keyframes globe-1 {
+                    0% { opacity: 1; }
+                    33% { opacity: 1; }
+                    34% { opacity: 0; }
+                    100% { opacity: 0; }
+                }
+
+                .globe-1 {
+                    right: 8px;
+                    animation: globe-1 1.5s linear infinite;
+                }
+
+                @keyframes globe-2 {
+                    0% { opacity: 0; }
+                    33% { opacity: 0; }
+                    34% { opacity: 1; }
+                    66% { opacity: 1; }
+                    67% { opacity: 0; }
+                    100% { opacity: 0; }
+                }
+
+                .globe-2 {
+                    right: 61px;
+                    animation: globe-2 1.5s linear infinite;
+                }
+
+                @keyframes globe-3 {
+                    0% { opacity: 0; }
+                    66% { opacity: 0; }
+                    67% { opacity: 1; }
+                    100% { opacity: 1; }
+                }
+
+                .globe-3 {
+                    right: 112px;
+                    animation: globe-3 1.5s linear infinite;
+                }
+
+                @media (prefers-reduced-motion) {
+                    .hand {
+                        animation: none;
+                    }
+
+                    .globe-1,
+                    .globe-2,
+                    .globe-3 {
+                        animation: none;
+                    }
+                }
+            </style>
+
+            <h1>
+                Hi there! I'm Dmitry
+                <span class="hand">👋</span>
+                <span class="globe-1">🌏</span>
+                <span class="globe-2">🌍</span>
+                <span class="globe-3">🌎</span>
+            </h1>
+        </div>
+    </foreignObject>
+</svg>

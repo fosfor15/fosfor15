@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! I'm Dmitry 👋🌏</h1>
+<div style="width: 100%;">
+    <img style="width: 100%;" src="./svg/hello.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
+</div>
 
 <h3>About me</h3>
 <ul class="about-me-list">
