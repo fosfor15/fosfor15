@@ -1,6 +1,6 @@
-<h1>Hi there! I'm Dmitry 👋🌏</h1>
+<h1 align="center">Hi there! I'm Dmitry 👋🌏</h1>
 
-<h3 style="margin: 8px 0;">About me</h3>
+<h3>About me</h3>
 <ul class="about-me-list">
     <li>Web FrontEnd & starter BackEnd Developer 🧑‍💻</li>
     <li>Lecturer of WebDev subjects at the <a href="https://online.top-academy.ru/" target="_blank">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫</li>
