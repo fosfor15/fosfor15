@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-    <img style="width: 100%;" src="./svg/greetings.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
-</div>
+<img src="./svg/greetings.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
 
 <h2>About me 👨‍💻</h2>
 <ul>

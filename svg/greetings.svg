@@ -6,7 +6,6 @@
                     display: flex;    
                     justify-content: center;
                     align-items: center;
-
                     width: 100%;
                     height: 200px;
                 }
@@ -18,6 +17,24 @@
                     text-align: center;
                     --color-main: #e4e8ec;
                     color: var(--color-main);
+                }
+
+                @media screen and (max-width: 800px) {
+                    h1 {
+                        font-size: 3.5em;
+                    }
+                }
+
+                @media screen and (max-width: 600px) {
+                    h1 {
+                        font-size: 4em;
+                    }
+                }
+
+                @media screen and (max-width: 400px) {
+                    h1 {
+                        font-size: 5em;
+                    }
                 }
 
                 @media (prefers-color-scheme: light) {
@@ -43,11 +60,17 @@
                     transform-origin: 70% 70%;
                 }
 
-                .globe-1,
+                .globe-container {
+                    position: relative;
+                    display: inline-block;
+                    margin-left: -15px;
+                }
+
                 .globe-2,
                 .globe-3 {
-                    position: relative;
+                    position: absolute;
                     top: 0;
+                    right: 0;
                 }
 
                 @keyframes globe-1 {
@@ -58,7 +81,6 @@
                 }
 
                 .globe-1 {
-                    right: 8px;
                     animation: globe-1 3s linear infinite;
                 }
 
@@ -72,7 +94,6 @@
                 }
 
                 .globe-2 {
-                    right: 87px;
                     animation: globe-2 3s linear infinite;
                 }
 
@@ -84,7 +105,6 @@
                 }
 
                 .globe-3 {
-                    right: 166px;
                     animation: globe-3 3s linear infinite;
                 }
 
@@ -105,9 +125,11 @@
                 <h1>
                     Hi there! I'm Dmitry
                     <span class="hand">👋</span>
-                    <span class="globe-1">🌏</span>
-                    <span class="globe-2">🌍</span>
-                    <span class="globe-3">🌎</span>
+                    <span class="globe-container">
+                        <span class="globe-1">🌏</span>
+                        <span class="globe-2">🌍</span>
+                        <span class="globe-3">🌎</span>
+                    </span>
                 </h1>
             </div>
         </div>
