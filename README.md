@@ -3,7 +3,7 @@
 <h2>About me 👨‍💻</h2>
 <ul>
     <li>Web FrontEnd & starter BackEnd Developer 👨‍💻🌐🔗</li>
-    <li>Lecturer of WebDev subjects at the <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
+    <li>Lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
     <li>Satellite Communication Systems, MATLAB & Simulink Engineer 📡🛰️</li>
     <li>Master in Infocommunication Technologies and Systems 🎓</li>
     <li>Current student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
