@@ -30,6 +30,9 @@
     <a href="https://www.w3schools.com/css">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" title="CSS – Cascading Style Sheets" />
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">
+        <img width="30" src="./svg/svg-logo.svg" alt="SVG" title="SVG – Scalable Vector Graphics" />
+    </a>
     <a href="https://lesscss.org">
         <img width="30" src="./svg/less-logo.svg" alt="Less" title="Less – preprocessor of CSS" />
     </a>
@@ -75,6 +78,9 @@
     <a href="https://angular.io">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" title="Angular" />
     </a>
+    <a href="https://www.electronjs.org">
+        <img width="30" src="./svg/electron-logo.svg" alt="Electron" title="Electron" />
+    </a>
     <a href="https://developer.chrome.com">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" title="Chrome" />
     </a>
@@ -98,6 +104,9 @@
     </a>
     <a href="https://yaml.org">
         <img width="30" src="./svg/yaml-logo.svg" alt="YAML" title="YAML" />
+    </a>
+    <a href="https://toml.io/en">
+        <img width="30" src="./svg/toml-logo.svg" alt="TOML" title="TOML" />
     </a>
     <a href="https://www.postgresql.org">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
@@ -129,11 +138,17 @@
     <a href="https://aws.amazon.com/amplify/">
         <img width="30" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" title="Amplify" />
     </a>
+    <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">
+        <img width="30" src="./svg/markdown-logo.svg" alt="Markdown" title="Markdown" />
+    </a>
     <a href="https://learn.microsoft.com/en-us/windows/terminal">
         <img width="30" src="./svg/windows-terminal-logo.svg" alt="Windows Terminal" title="Windows Terminal" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
         <img width="30" src="./svg/bash-logo.svg" alt="Bash" title="Bash" />
+    </a>
+    <a href="https://starship.rs">
+        <img width="30" src="./svg/starship-logo.svg" alt="Starship" title="Starship" />
     </a>
 </p>
 <p>
