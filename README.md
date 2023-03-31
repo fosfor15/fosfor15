@@ -22,7 +22,7 @@
     Ask me anything or look what was asked by somebody else <a href="https://github.com/fosfor15/fosfor15/issues">here at the link to issues</a> 💬
 </p>
 
-<h2>Languages and Tools 🧰</h2>
+<h2>Languages and Tools 📟🧰⚒️</h2>
 <p>
     <a href="https://www.w3schools.com/html">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" title="HTML – HyperText Markup Language" />
@@ -39,8 +39,11 @@
     <a href="https://tailwindcss.com">
         <img width="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" title="Tailwind"/>
     </a>
-    <a href="https://getbootstrap.com/">
+    <a href="https://getbootstrap.com">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  alt="Bootstrap" title="Bootstrap" />
+    </a>
+    <a href="https://materializecss.com">
+        <img width="30" src="./svg/materialize-logo.svg"  alt="Materialize" title="Materialize" />
     </a>
     <a href="https://javascript.info">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" />
