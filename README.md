@@ -69,6 +69,9 @@
     <a href="https://bitbucket.org">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" />
     </a>
+    <a href="https://jquery.com">
+        <img width="30" src="./svg/jquery-logo.svg" alt="jQuery" title="jQuery" />
+    </a>
     <a href="https://react.dev">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
     </a>
@@ -95,6 +98,12 @@
     </a>
     <a href="https://expressjs.com">
         <img width="30" src="./svg/express-logo.svg" alt="Express" title="Express" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
+        <img width="30" src="./svg/http-logo.svg" alt="HTTP" title="HTTP" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+        <img width="30" src="./svg/ajax-logo.svg" alt="AJAX" title="AJAX" />
     </a>
     <a href="https://axios-http.com">
         <img width="30" src="./svg/axios-logo.svg" alt="Axios" title="Axios" />
