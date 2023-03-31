@@ -141,6 +141,9 @@
     <a href="https://gulpjs.com">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" />
     </a>
+    <a href="https://vitejs.dev">
+        <img width="30" src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" />
+    </a>
     <a href="https://aws.amazon.com">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" title="Amazon Web Services" />
     </a>
