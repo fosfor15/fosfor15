@@ -90,6 +90,9 @@
     <a href="https://metamask.io">
         <img width="30" src="https://docs.metamask.io/metamask-fox.svg" alt="Metamask" title="Metamask" />
     </a>
+    <a href="https://clarifai.com">
+        <img width="30" src="./svg/clarifai-logo.svg" alt="Clarifai" title="Clarifai" />
+    </a>
     <a href="https://wordpress.com">
         <img width="30" src="./svg/wordpress-logo.svg" alt="WordPress" title="WordPress" />
     </a>
