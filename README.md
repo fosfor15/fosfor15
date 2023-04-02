@@ -105,6 +105,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
         <img width="30" src="./svg/http-logo.svg" alt="HTTP" title="HTTP" />
     </a>
+    <a href="https://es.wikipedia.org/wiki/Secure_Shell">
+        <img width="30" src="./svg/ssh-logo.svg" alt="SSH" title="SSH" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
         <img width="30" src="./svg/ajax-logo.svg" alt="AJAX" title="AJAX" />
     </a>
