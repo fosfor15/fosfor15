@@ -75,11 +75,17 @@
     <a href="https://react.dev">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
     </a>
+    <a href="https://redux.js.org">
+        <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" />
+    </a>
     <a href="https://vuejs.org">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" />
     </a>
     <a href="https://angular.io">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" title="Angular" />
+    </a>
+    <a href="https://rxjs.dev">
+        <img width="30" src="./svg/rxjs-logo.svg" alt="Reactive Extensions Library for JS" title="Reactive Extensions Library for JS" />
     </a>
     <a href="https://www.electronjs.org">
         <img width="30" src="./svg/electron-logo.svg" alt="Electron" title="Electron" />
