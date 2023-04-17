@@ -1,6 +1,6 @@
 <img src="./svg/greetings.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
 
-<h2>About me 👨‍💻👾</h2>
+<h2>About me 👨‍💻👾🤖</h2>
 <ul>
     <li>Web FrontEnd & starter BackEnd Developer 👨‍💻🌐🔗</li>
     <li>Lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
@@ -90,11 +90,14 @@
     <a href="https://www.electronjs.org">
         <img width="30" src="./svg/electron-logo.svg" alt="Electron" title="Electron" />
     </a>
+    <a href="https://jestjs.io">
+        <img width="30" src="./svg/jest-logo.svg" alt="Jest" title="Jest" />
+    </a>
     <a href="https://developer.chrome.com">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" title="Chrome" />
     </a>
     <a href="https://metamask.io">
-        <img width="30" src="https://docs.metamask.io/metamask-fox.svg" alt="Metamask" title="Metamask" />
+        <img width="30" src="./svg/metamask-logo.svg" alt="Metamask" title="Metamask" />
     </a>
     <a href="https://clarifai.com">
         <img width="30" src="./svg/clarifai-logo.svg" alt="Clarifai" title="Clarifai" />
