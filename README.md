@@ -2,16 +2,16 @@
 
 <h2>About me 👨‍💻👾🤖</h2>
 <ul>
-    <li>Angular Lead FrontEnd at Innotech & starter BackEnd Developer 👨‍💻🌐🔗</li>
+    <li>Angular Lead Frontend developer at <a href="https://inno.tech/">Innotech</a> & starter Backend developer 👨‍💻🌐🔗</li>
     <li>Former lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
     <li>Master in Infocommunication Technologies and Systems 🎓</li>
-    <li>Satellite Communication Systems, MATLAB & Simulink Engineer 📡🛰️</li>
+    <li>Satellite Communication Systems, MATLAB & Simulink engineer 📡🛰️</li>
     <li>Regular student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
 </ul>
 
 <h3>My motivation 🏆✅⏩</h3>
 <p>
-    I perceive Development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
+    I perceive Web development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
 </p>
 <p>
     I adhere to the idea that the Internet and modern, still young technologies can make our world better and more wealthy. And in general I look at Development as a good opportunity to contribute to this process.
@@ -165,8 +165,7 @@
     <a href="https://aws.amazon.com">
         <img width="30" src="./svg/aws-logo.svg" alt="Amazon Web Services" title="Amazon Web Services" />
     </a>
-    <a href="https://aws.amazon.com/amplify/">![aws-logo](https://github.com/user-attachments/assets/d0e6c616-d85b-435a-9471-9eebb63b8eb8)
-
+    <a href="https://aws.amazon.com/amplify/">
         <img width="30" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" title="Amplify" />
     </a>
     <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">
@@ -205,7 +204,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ![aws-logo](https://github.com/user-attachments/assets/62202142-53c2-438d-aa95-7e4e50b1334b)
+- 😄 Pronouns:
 ...
 - ⚡ Fun fact: ... 
 -->
