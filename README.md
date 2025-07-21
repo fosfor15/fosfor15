@@ -2,11 +2,11 @@
 
 <h2>About me 👨‍💻👾🤖</h2>
 <ul>
-    <li>Web FrontEnd & starter BackEnd Developer 👨‍💻🌐🔗</li>
-    <li>Lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
-    <li>Satellite Communication Systems, MATLAB & Simulink Engineer 📡🛰️</li>
+    <li>Angular Lead FrontEnd at Innotech & starter BackEnd Developer 👨‍💻🌐🔗</li>
+    <li>Former lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
     <li>Master in Infocommunication Technologies and Systems 🎓</li>
-    <li>Current student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
+    <li>Satellite Communication Systems, MATLAB & Simulink Engineer 📡🛰️</li>
+    <li>Regular student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
 </ul>
 
 <h3>My motivation 🏆✅⏩</h3>
@@ -163,9 +163,10 @@
         <img width="30" src="./svg/docker-logo.svg" alt="Docker" title="Docker" />
     </a>
     <a href="https://aws.amazon.com">
-        <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" title="Amazon Web Services" />
+        <img width="30" src="./svg/aws-logo.svg" alt="Amazon Web Services" title="Amazon Web Services" />
     </a>
-    <a href="https://aws.amazon.com/amplify/">
+    <a href="https://aws.amazon.com/amplify/">![aws-logo](https://github.com/user-attachments/assets/d0e6c616-d85b-435a-9471-9eebb63b8eb8)
+
         <img width="30" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" title="Amplify" />
     </a>
     <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">
@@ -196,13 +197,6 @@
         alt="GitHub stats"
     />
 </p>
-<p>
-    <img
-        style="width: 64%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=fosfor15&"
-        alt="GitHub stats"
-    />
-</p>
 
 <!-- Here are some ideas:
 - 🔭 I’m currently working on ...
@@ -211,6 +205,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ![aws-logo](https://github.com/user-attachments/assets/62202142-53c2-438d-aa95-7e4e50b1334b)
+...
 - ⚡ Fun fact: ... 
 -->
