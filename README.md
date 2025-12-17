@@ -1,15 +1,14 @@
 <img src="./svg/greetings.svg" alt="Hi there! I'm Dmitry. Greetings to Earth!">
 
-<h2>About me 👨‍💻👾🤖</h2>
+<h2>About me 👨‍💻👾</h2>
 <ul>
-    <li>Angular Lead Frontend developer at <a href="https://inno.tech/">Innotech</a> & starter Backend developer 👨‍💻🌐🔗</li>
-    <li>Former lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> – former STEP Computer Academy 🧑‍🏫📚🚸</li>
-    <li>Master in Infocommunication Technologies and Systems 🎓</li>
-    <li>Satellite Communication Systems, MATLAB & Simulink engineer 📡🛰️</li>
-    <li>Regular student at <a href="https://github.com/zero-to-mastery">Zero-to-Mastery Academy</a> 🎓</li>
+    <li>Angular Lead Frontend developer at <a href="https://inno.tech/">Innotech Group</a> 🌐</li>
+    <li>Former lecturer of WebDev subjects at <a href="https://online.top-academy.ru/">TOP Computer Academy</a> 🧑‍🏫</li>
+    <li>MS in Infocommunication Technologies and Systems 🎓</li>
+    <li>Satellite Communications, MATLAB & Simulink Engineer 📡🛰️</li>
 </ul>
 
-<h3>My motivation 🏆✅⏩</h3>
+<h3>My motivation 🏆</h3>
 <p>
     I perceive Web development as an interesting constructor, in which, using well-mastered elements and tools, you can construct something new, your own and working. Also, sometimes this is became like a puzzle for me, in which the enjoy of the solution compensates for all the effort invested.
 </p>
@@ -17,12 +16,12 @@
     I adhere to the idea that the Internet and modern, still young technologies can make our world better and more wealthy. And in general I look at Development as a good opportunity to contribute to this process.
 </p>
 
-<h3>How to reach me ✉️📫</h3>
+<h3>How to reach me 📫</h3>
 <p>
     Ask me anything or look what was asked by somebody else <a href="https://github.com/fosfor15/fosfor15/issues">here at the link to issues</a> 💬
 </p>
 
-<h2>Languages and Tools 📟🧰⚒️</h2>
+<h2>Languages and Tools</h2>
 <p>
     <a href="https://www.w3schools.com/html">
         <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" title="HTML – HyperText Markup Language" />
