@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        #T {
+            --color-main: #000;
+            fill: var(--color-main);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            #T {
+                --color-main: #e4e8ec;
+            }
+        }
+    </style>
+
+    <path d="M94.2809 9V21.3596H105.404V106.64H94.2809V119H119V9L94.2809 9Z" fill="#9C4221" />
+    <path id="T" d="M36.8091 44.8426V31.2471H91.1911V44.8426H70.7978V104.168H57.2023V44.8426H36.8091Z" />
+    <path d="M33.7191 9V21.3596H22.5955V106.64H33.7191V119H9V9H33.7191Z" fill="#9C4221" />
+</svg>

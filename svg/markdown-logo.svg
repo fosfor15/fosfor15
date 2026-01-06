@@ -1,0 +1,31 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        #shape {
+            --color-main: #000;
+            fill: var(--color-main);
+        }
+
+        #M, #arrow-down {
+            --color-main: #fff;
+            fill: var(--color-main);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            #shape {
+                --color-main: #e4e8ec;
+            }
+
+            #M, #arrow-down {
+                --color-main: #000;
+            }
+        }
+    </style>
+    
+    <path id="shape"
+        d="M113.635 33H14.3654C9.74531 33 6 37.4343 6 42.9043V107.612C6 113.082 9.74531 117.517 14.3654 117.517H113.635C118.255 117.517 122 113.082 122 107.612V42.9043C122 37.4343 118.255 33 113.635 33Z"
+    />
+    <path id="M"
+        d="M22.7306 97.7083V52.8088H33.8844L45.0383 69.316L56.1921 52.8088H67.346V97.7083H56.1921V71.9571L45.0383 88.4643L33.8844 71.9571V97.7083H22.7306Z"
+    />
+    <path id="arrow-down" d="M92.4422 97.7083L75.7114 75.9188H86.8653V52.8088H98.0191V75.9188H109.173L92.4422 97.7083Z" />
+</svg>
